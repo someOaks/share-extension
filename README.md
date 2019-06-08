@@ -1,6 +1,9 @@
 # share-extension
 
 Python executes bash commabds --> link
-    Jypiter NB convert ipynb -> html
-    Html file -> Google Cloud Storage
-    Make GCS file public
+
+1. Jypiter NB convert ipynb -> html
+
+2. Html file -> Google Cloud Storage
+
+3. Make GCS file public
